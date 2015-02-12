@@ -14,8 +14,8 @@ messagetosend = header + msg
 
 
 # Credentials (if needed)  
-username = 'huie.michael@gmail.com'  
-password = 'aofbguskyevglfvx'
+username = 'info removed'  
+password = 'info removed'
 
 # The actual mail send  
 server = smtplib.SMTP('smtp.gmail.com:587')  
